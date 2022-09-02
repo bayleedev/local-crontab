@@ -1,0 +1,16 @@
+{
+  "name": "metrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/task.js",
+  "scripts": {
+    "start": "node src/task.js",
+    "test": "npm test"
+  },
+  "author": "Baylee Schmeisser",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "node-hid": "^2.1.1",
+    "node-notifier": "^10.0.1"
+  }
+}
